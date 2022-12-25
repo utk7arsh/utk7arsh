@@ -19,6 +19,7 @@
 - ☀️ Currently working on 
   - IEEE's Pocket racers project - self-driving small car
   - Computational humor research in GPT3 and ChatGPT
+  - More projects 👀
 - 🔭 Learning everyday about new tech, AI models, and amazing open source works.
 - 🪙 I enjoy reading about persoanl investments and mutual funds
 
