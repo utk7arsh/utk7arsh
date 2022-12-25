@@ -21,7 +21,7 @@
   - Computational humor research in GPT3 and ChatGPT
   - More projects 👀
 - 🔭 Learning everyday about new tech, AI models, and amazing open source works.
-- 🪙 I enjoy reading about persoanl investments and mutual funds
+- 🪙 I enjoy reading about personal investments and mutual funds
 
 ## Misc.
 - 💬 Ask me about anything and everything!
