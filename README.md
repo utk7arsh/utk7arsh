@@ -14,12 +14,6 @@
 - 🌱 Part of [IEEE at UCLA](https://github.com/UCLA-IEEE) , [DevX](https://github.com/ucladevx) and [Engineering Society at UCLA](https://github.com/ESUC)
 - 🧐 Undergraduate Student Researcher in Natural Language Processing under Professor Violet [Peng](https://vnpeng.net/).  
 - 🏢 Previously interned at Pullscription, working on the their web tools, APIs, and testing 
-
-## Interests
-- ☀️ Currently working on 
-  - IEEE's Pocket racers project - self-driving small car
-  - Computational humor research in GPT3 and ChatGPT
-  - More projects 👀
 - 🔭 Learning everyday about new tech, AI models, and amazing open source works.
 - 🪙 I enjoy reading about personal investments and mutual funds
 
