@@ -20,4 +20,4 @@
 ## Misc.
 - 💬 Ask me about anything and everything!
 - 📜 Looking for 2022 Software engineering internship opportunities
-- 📫 How to reach me: shoot me a text on Discord - Wildcat#0574
+- 📫 How to reach: shoot me a text on Discord - Wildcat#0574
