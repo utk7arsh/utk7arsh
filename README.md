@@ -12,12 +12,12 @@
 
 - ⚙️ Undergraduate Computer engineering student at University of California, Los Angeles 
 - 🌱 Part of [IEEE at UCLA](https://github.com/UCLA-IEEE) , [DevX](https://github.com/ucladevx) and [Engineering Society at UCLA](https://github.com/ESUC)
-- 🧐 Undergraduate Student Researcher in Natural Language Processing under Professor Violet [Peng](https://vnpeng.net/).  
+- 🧐 Undergraduate Student Researcher in Natural Language Processing in [Scalable Analytics Institute lab](https://scai.cs.ucla.edu/).  
 - 🏢 Previously interned at Pullscription, working on the their web tools, APIs, and testing 
 - 🔭 Learning everyday about new tech, AI models, and amazing open source works.
 - 🪙 I enjoy reading about personal investments and mutual funds
 
 ## Misc.
 - 💬 Ask me about anything and everything!
-- 📜 Looking for 2022 Software engineering internship opportunities
+- 📜 Looking for 2024 Software engineering internship opportunities
 - 📫 How to reach: shoot me a text on Discord - Wildcat#0574
