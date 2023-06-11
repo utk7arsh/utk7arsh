@@ -10,8 +10,8 @@
   
 ## About
 
-- ⚙️ Undergraduate Computer engineering student at University of California, Los Angeles 
-- 🌱 Part of [IEEE at UCLA](https://github.com/UCLA-IEEE) , [DevX](https://github.com/ucladevx) and [Engineering Society at UCLA](https://github.com/ESUC)
+- ⚙️ Undergraduate Computer science student at University of California, Los Angeles 
+- 🌱 Part of - Technical Director at [BruinAI](https://www.linkedin.com/company/bruin-ai/), Dev Team Officer at [ACM at UCLA](https://www.uclaacm.com/) , [DevX](https://www.ucladevx.com/) member and [Engineering Society at UCLA](https://www.esuc.ucla.edu/) advisor
 - 🧐 Undergraduate Student Researcher in Natural Language Processing in [Scalable Analytics Institute lab](https://scai.cs.ucla.edu/).  
 - 🏢 Previously interned at Pullscription, working on the their web tools, APIs, and testing 
 - 🔭 Learning everyday about new tech, AI models, and amazing open source works.
