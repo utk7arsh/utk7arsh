@@ -21,7 +21,7 @@ Also on this [web corner](https://utkarshlal.netlify.app/)
   - Advisor at [Engineering Society at UCLA](https://www.esuc.ucla.edu/)
  
 - 🧐 Undergraduate Student Researcher in Natural Language Processing in [Scalable Analytics Institute lab](https://scai.cs.ucla.edu/).
-- 💼 Current Software Engineering Intern at [NutriTap Technologies](https://nutritap.in/) 
+- 💼 Currently SWE Intern at [NutriTap Technologies](https://nutritap.in/) 
 - 🏢 Previously SWE intern at [Pullscription](https://www.pullscription.com/), working on their web tools, APIs, and testing 
 - 🔭 Learning everyday about new tech, AI models, and open-source works.
 - 🪙 I enjoy reading about personal investments and mutual funds
