@@ -14,7 +14,7 @@ Also on this [web corner](https://utkarshlal.netlify.app/)
 
 - ⚙️ Undergraduate Computer science student at University of California, Los Angeles
 
-- 🌱 College life -
+- 🌱 Clubs and orgs -
   - Technical Director at [BruinAI](https://www.linkedin.com/company/bruin-ai/)
   - Dev Team Officer at [ACM at UCLA](https://www.uclaacm.com/)
   - Member at [DevX](https://www.ucladevx.com/)
