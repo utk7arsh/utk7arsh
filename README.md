@@ -33,14 +33,17 @@ Also on this [web corner](https://utkarshlal.netlify.app/)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2d2b55?style=for-the-badge&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-2d2b55?style=for-the-badge&logo=Cplusplus)
 ![C](https://img.shields.io/badge/-C-2d2b55?style=for-the-badge&logo=C)
+![PHP](https://img.shields.io/badge/-php-2d2b55?style=for-the-badge&logo=php)
 ![Java](https://img.shields.io/badge/-Java-2d2b55?style=for-the-badge&logo=Java)
 ![SQL](https://img.shields.io/badge/-SQL-2d2b55?style=for-the-badge&logo=MySQL)
 
-### Backend and Frontend Technologies:
+### Backend, Frontend and Database Technologies:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-2d2b55?style=for-the-badge&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-2d2b55?style=for-the-badge&logo=Express)
 ![REACT](https://img.shields.io/badge/-REACT-2d2b55?style=for-the-badge&logo=React)
+![Spring](https://img.shields.io/badge/-Spring-2d2b55?style=for-the-badge&logo=Spring)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2d2b55?style=for-the-badge&logo=mongoDB)
+![MySQL](https://img.shields.io/badge/-mysql-2d2b55?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2d2b55?style=for-the-badge&logo=PostgreSQL)
 ![CockroachDB](https://img.shields.io/badge/-CockroachDB-2d2b55?style=for-the-badge&logo=cockroachlabs)
 ![HTML](https://img.shields.io/badge/-HTML-2d2b55?style=for-the-badge&logo=HTML5)
@@ -53,15 +56,14 @@ Also on this [web corner](https://utkarshlal.netlify.app/)
 ### Version Control & Productivity:
 ![Git](https://img.shields.io/badge/-Git-2d2b55?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-2d2b55?style=for-the-badge&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-2d2b55?style=for-the-badge&logo=Bitbucket)
 ![Jira](https://img.shields.io/badge/-Jira-2d2b55?style=for-the-badge&logo=Jira)
 
 ### AI & ML:
 ![PyTorch](https://img.shields.io/badge/-PyTorch-2d2b55?style=for-the-badge&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-2d2b55?style=for-the-badge&logo=tensorflow)
+![Pandas](https://img.shields.io/badge/-pandas-2d2b55?style=for-the-badge&logo=pandas)
 
 ### Software:
-![Figma](https://img.shields.io/badge/-Figma-2d2b55?style=for-the-badge&logo=Figma)
 ![Notion](https://img.shields.io/badge/-Notion-2d2b55?style=for-the-badge&logo=Notion)
 ![Slack](https://img.shields.io/badge/-Slack-2d2b55?style=for-the-badge&logo=Slack)
 ![Discord](https://img.shields.io/badge/-Discord-2d2b55?style=for-the-badge&logo=Discord)
