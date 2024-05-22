@@ -18,9 +18,10 @@ Also on this [web corner](https://utkarshlal.netlify.app/)
   - Technical Director at [BruinAI](https://www.bruinai.org/)
   - Dev Team Officer at [ACM at UCLA](https://www.uclaacm.com/)
   - Member at [DevX](https://www.ucladevx.com/)
-  - Advisor at [Engineering Society at UCLA](https://www.esuc.ucla.edu/)
+  - Former Vice President at [Engineering Society at UCLA](https://www.esuc.ucla.edu/)
  
-- 🧐 Undergraduate Student Researcher in Natural Language Processing in [Scalable Analytics Institute lab](https://scai.cs.ucla.edu/).
+- 🧐 Undergraduate Student Researcher in Natural Language Processing in [Scalable Analytics Institute lab](https://scai.cs.ucla.edu/). See my latest published paper [here](https://arxiv.org/pdf/2305.15090)
+- Incoming ML Engineering Intern at Artifactual. More info to come ...
 - 💼 Previously full stack SWE Intern at [NutriTap Technologies](https://nutritap.in/) working on their patented vending machines, B2B portal, and microservices
 - 🏢 Previously backend SWE intern at [Pullscription](https://www.pullscription.com/), working on their web tools, APIs, and testing 
 - 🔭 Learning everyday about new tech, AI models, and open-source works.
