@@ -20,18 +20,21 @@ Also on this [web corner](https://utkarshlal.netlify.app/)
   - Member at [DevX](https://www.ucladevx.com/)
   - Former Vice President at [Engineering Society at UCLA](https://www.esuc.ucla.edu/)
 
-### Research 
-- 🧐 Undergraduate Student Researcher in Natural Language Processing in [Scalable Analytics Institute lab](https://scai.cs.ucla.edu/). See my latest published paper [here](https://arxiv.org/pdf/2305.15090)
+### 🧐 Research 
+-  Undergraduate Student Researcher in Natural Language Processing in [Scalable Analytics Institute lab](https://scai.cs.ucla.edu/). See my latest paper [here](https://arxiv.org/pdf/2305.15090)
 - Former research assistant at [Amazon Science](https://www.amazon.science/) and [Peng's Language Understanding & Synthesis Lab
-](https://vnpeng.net/group/) working on computational humor in Large Language Models
+](https://vnpeng.net/group/) working on computational humor in LLMs
 - Former research assistant at the [Brain and AI lab at UCLA (The Roychowdhury Group)](https://www.vwaniroychowdhury.com)
 
-### Work experience
+### 💼 Work experience
 - Incoming ML Engineering Intern at [Artifactual](https://www.artifactual.io/). More info to come ...
-- 💼 Previously full stack SWE Intern at [NutriTap Technologies](https://nutritap.in/) working on their patented vending machines, B2B portal, and microservices
-- 🏢 Previously backend SWE intern at [Pullscription](https://www.pullscription.com/), working on their web tools, APIs, and testing 
+- Previously full stack SWE Intern at [NutriTap Technologies](https://nutritap.in/) working on their patented vending machines, B2B portal, and microservices
+- Previously backend SWE intern at [Pullscription](https://www.pullscription.com/), working on their web tools, APIs, and testing
+
+### Other things I do
 - 🔭 Learning everyday about new tech, AI models, and open-source works.
 - 🪙 I enjoy reading about personal investments and mutual funds
+- Talk to me about ⚽🎾♟️🏏
 
 ## Technical Skills
 ### Programming Languages:
