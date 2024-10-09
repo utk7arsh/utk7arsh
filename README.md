@@ -15,9 +15,9 @@ Also on this [web corner](https://utkarshlal.netlify.app/)
 - ⚙️ Undergraduate Computer science student at University of California, Los Angeles
 
 ### 🌱 Clubs and Leadership -
-  - Technical Director at [BruinAI](https://www.bruinai.org/)
-  - Dev Team Officer at [ACM at UCLA](https://www.uclaacm.com/)
-  - Member at [DevX](https://www.ucladevx.com/)
+  - Co-founder, Former Technical Director, and Director of Parternships at [BruinAI](https://www.bruinai.org/)
+  - Former Dev Team Officer at [ACM at UCLA](https://www.uclaacm.com/)
+  - Former Member at [DevX](https://www.ucladevx.com/)
   - Former Vice President at [Engineering Society at UCLA](https://www.esuc.ucla.edu/)
 
 ### 🧐 Research 
@@ -27,7 +27,7 @@ Also on this [web corner](https://utkarshlal.netlify.app/)
 - Former research assistant at the [Brain and AI lab at UCLA (The Roychowdhury Group)](https://www.vwaniroychowdhury.com)
 
 ### 💼 Work experience
-- Incoming ML Engineering Intern at [Artifactual](https://www.artifactual.io/). More info to come ...
+- Software and ML Engineering Intern at [Actuals](https://useactuals.com/) building SaaS products for small business buyers to cut down the acquisition process.
 - Previously full stack SWE Intern at [NutriTap Technologies](https://nutritap.in/) working on their patented vending machines, B2B portal, and microservices
 - Previously backend SWE intern at [Pullscription](https://www.pullscription.com/), working on their web tools, APIs, and testing
 
