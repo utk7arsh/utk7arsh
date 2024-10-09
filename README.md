@@ -21,7 +21,7 @@ Also on this [web corner](https://utkarshlal.netlify.app/)
   - Former Vice President at [Engineering Society at UCLA](https://www.esuc.ucla.edu/)
 
 ### 🧐 Research 
--  Undergraduate Student Researcher in Natural Language Processing in [Scalable Analytics Institute lab](https://scai.cs.ucla.edu/). See my latest paper [here](https://arxiv.org/pdf/2305.15090)
+-  Undergraduate Student Researcher at [Scalable Analytics Institute lab](https://scai.cs.ucla.edu/). See my latest paper [here](https://arxiv.org/pdf/2305.15090)
 - Former research assistant at [Amazon Science](https://www.amazon.science/) and [Peng's Language Understanding & Synthesis Lab
 ](https://vnpeng.net/group/) working on computational humor in LLMs
 - Former research assistant at the [Brain and AI lab at UCLA (The Roychowdhury Group)](https://www.vwaniroychowdhury.com) where I learnt what does ML research mean
