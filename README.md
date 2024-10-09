@@ -24,7 +24,7 @@ Also on this [web corner](https://utkarshlal.netlify.app/)
 -  Undergraduate Student Researcher in Natural Language Processing in [Scalable Analytics Institute lab](https://scai.cs.ucla.edu/). See my latest paper [here](https://arxiv.org/pdf/2305.15090)
 - Former research assistant at [Amazon Science](https://www.amazon.science/) and [Peng's Language Understanding & Synthesis Lab
 ](https://vnpeng.net/group/) working on computational humor in LLMs
-- Former research assistant at the [Brain and AI lab at UCLA (The Roychowdhury Group)](https://www.vwaniroychowdhury.com)
+- Former research assistant at the [Brain and AI lab at UCLA (The Roychowdhury Group)](https://www.vwaniroychowdhury.com) where I learnt what does ML research mean
 
 ### 💼 Work experience
 - Software and ML Engineering Intern at [Actuals](https://useactuals.com/) building SaaS products for small business buyers to cut down the acquisition process.
