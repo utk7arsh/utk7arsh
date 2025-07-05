@@ -10,7 +10,8 @@
   
 ## About
 
-- ⚙️ Undergraduate Computer science student at University of California, Los Angeles
+- Incoming MS CS student at University of Pennsylvania
+- Undergraduate Computer science student at University of California, Los Angeles
 
 ### 🌱 Clubs and Leadership -
   - Co-founder, Former Technical Director, and Director of Parternships at [BruinAI](https://www.bruinai.org/)
