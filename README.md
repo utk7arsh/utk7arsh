@@ -26,6 +26,8 @@
 - Former research assistant at the [Brain and AI lab at UCLA (The Roychowdhury Group)](https://www.vwaniroychowdhury.com) where I learnt what does ML research mean
 
 ### 💼 Work experience
+- Data Science Intern at [Price.com](https://price.com/) building data pipelines to streamline consistern keyword extraction and handle users personas based on their engagement/shopping activity. 
+- AI Engineering Intern at [GumGum](https://gumgum.com/), working on their first generative AI tools to handle internal Jira capitalization and DSPy fine-tuning. 
 - Software and ML Engineering Intern at [Actuals](https://useactuals.com/) building SaaS products for small business buyers to cut down the acquisition process.
 - Previously full stack SWE Intern at [NutriTap Technologies](https://nutritap.in/) working on their patented vending machines, B2B portal, and microservices
 - Previously backend SWE intern at [Pullscription](https://www.pullscription.com/), working on their web tools, APIs, and testing
@@ -33,6 +35,7 @@
 ### Other things I do
 - 🔭 Learning everyday about new tech, AI models, and open-source works.
 - 🪙 I enjoy reading about personal investments and mutual funds
+- Currently Learning MLOps
 - Talk to me about ⚽🎾♟️🏏
 
 ## Technical Skills
