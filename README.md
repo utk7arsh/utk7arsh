@@ -61,6 +61,18 @@
 ![HTML](https://img.shields.io/badge/-HTML-2d2b55?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-2d2b55?style=for-the-badge&logo=CSS3)
 
+### AI & Machine Learning:
+![Python](https://img.shields.io/badge/-Python-2D2B55?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/-PyTorch-2D2B55?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-2D2B55?style=for-the-badge&logo=tensorflow)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-2D2B55?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/-Pandas-2D2B55?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-2D2B55?style=for-the-badge&logo=numpy)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-2D2B55?style=for-the-badge&logo=huggingface)
+![MLflow](https://img.shields.io/badge/-MLflow-2D2B55?style=for-the-badge&logo=mlflow)
+![DVC](https://img.shields.io/badge/-DVC-2D2B55?style=for-the-badge&logo=dvc)
+![OpenCV](https://img.shields.io/badge/-OpenCV-2D2B55?style=for-the-badge&logo=opencv)
+
 ### Internet Of Things:
 ![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-2d2b55?style=for-the-badge&logo=raspberrypi)
 ![Arduino](https://img.shields.io/badge/-Arduino-2d2b55?style=for-the-badge&logo=Arduino)
@@ -70,10 +82,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-2d2b55?style=for-the-badge&logo=github)
 ![Jira](https://img.shields.io/badge/-Jira-2d2b55?style=for-the-badge&logo=Jira)
 
-### AI & ML:
-![PyTorch](https://img.shields.io/badge/-PyTorch-2d2b55?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-2d2b55?style=for-the-badge&logo=tensorflow)
-![Pandas](https://img.shields.io/badge/-pandas-2d2b55?style=for-the-badge&logo=pandas)
 
 ### Software:
 ![Notion](https://img.shields.io/badge/-Notion-2d2b55?style=for-the-badge&logo=Notion)
