@@ -10,8 +10,8 @@
   
 ## About
 
-- Incoming MS CS student at University of Pennsylvania
-- Undergraduate Computer science student at University of California, Los Angeles
+- Current Masters in Computer Science student at University of Pennsylvania
+- Undergraduate Computer Science graduate from University of California, Los Angeles
 
 ### 🌱 Clubs and Leadership -
   - Co-founder, Former Technical Director, and Director of Parternships at [BruinAI](https://www.bruinai.org/)
@@ -20,6 +20,7 @@
   - Former Vice President at [Engineering Society at UCLA](https://www.esuc.ucla.edu/)
 
 ### 🧐 Research 
+- Graduate Research Assistant at [TrustML](https://trustml.github.io/), currently working on my dream AI intersection and soon will have some papers rolling. 
 -  Undergraduate Student Researcher at [Scalable Analytics Institute lab](https://scai.cs.ucla.edu/) currently working on CV projects like trying to improve glaucoma detection through contrastive learning, fine tuning SAM models to improve segmentation and exploring knowledge transfer in other vision models. See my paper on information extraction and text systhesis generation [here](https://arxiv.org/pdf/2305.15090)
 - Former research assistant at [Amazon Science](https://www.amazon.science/) and [Peng's Language Understanding & Synthesis Lab
 ](https://violetpeng.github.io/group/) working on computational humor in LLMs
