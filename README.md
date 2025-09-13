@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-utkarshlal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/utkarshlal/)](https://www.linkedin.com/in/utkarshlal/) 
 [![GitHub](https://img.shields.io/github/followers/utk7arsh?label=Follow&style=social)](https://github.com/utk7arsh/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-utkarshlal01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utkarshlal01@gmail.com)](mailto:utkarshlal01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-utkarshlal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utkarshlal@gmail.com)](mailto:utkarshlal@gmail.com)
 ---
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
