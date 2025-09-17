@@ -21,7 +21,7 @@
   - Former Vice President at [Engineering Society at UCLA](https://www.esuc.ucla.edu/)
 
 ### 🧐 Research 
-- Graduate Research Assistant at [TrustML](https://trustml.github.io/), working on the inter-discipline AI I have dreamt of working in. Will have some updates rolling out soon.  
+- Graduate Research Assistant at [TrustML](https://trustml.github.io/), working on my dream inter-discipline of AI i.e. Robotics. Will have some updates rolling out soon.  
 -  Undergraduate Student Researcher at [Scalable Analytics Institute lab](https://scai.cs.ucla.edu/) currently working on CV projects like trying to improve glaucoma detection through contrastive learning, fine tuning SAM models to improve segmentation and exploring knowledge transfer in other vision models. See my paper on information extraction and text systhesis generation [here](https://arxiv.org/pdf/2305.15090)
 - Former research assistant at [Amazon Science](https://www.amazon.science/) and [Peng's Language Understanding & Synthesis Lab
 ](https://violetpeng.github.io/group/) working on computational humor in LLMs
