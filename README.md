@@ -16,7 +16,7 @@
 - Undergraduate Computer Science graduate from University of California, Los Angeles
 
 ### 🌱 Clubs and Leadership -
-  - Co-founder, Former Technical Director, and Director of Parternships at [BruinAI](https://www.bruinai.org/)
+  - Co-founder (Technical Director later Director of Parternships) at [BruinAI](https://www.bruinai.org/)
   - Former Dev Team Officer at [ACM at UCLA](https://www.uclaacm.com/)
   - Former Member at [DevX](https://www.ucladevx.com/)
   - Former Vice President at [Engineering Society at UCLA](https://www.esuc.ucla.edu/)
