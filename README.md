@@ -39,7 +39,7 @@
 ### Other things I do
 - 🔭 Learning everyday about new tech, AI models, and open-source works.
 - 🪙 I enjoy reading about personal investments and mutual funds
-- Currently Learning MLOps
+- Currently learning SLAM and VLAs
 - Talk to me about ⚽🎾♟️🏏
 
 ## Technical Skills
