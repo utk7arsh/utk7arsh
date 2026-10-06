@@ -35,7 +35,6 @@
 - AI Engineering Intern at [GumGum](https://gumgum.com/), working on their first generative AI tools to handle internal Jira capitalization and DSPy fine-tuning. 
 - Founding team engineer at Actuals building SaaS products for small business buyers to cut down the acquisition process.
 - Full stack SWE Intern at [NutriTap Technologies](https://nutritap.in/) working on their patented vending machines, B2B portal, and microservices
-- Backend SWE intern at [Pullscription](https://www.pullscription.com/), working on their web tools, APIs, and testing to bring the largest comic book stores on the web
 
 ### Other things I do
 - 🔭 Learning everyday about new tech, AI models, and open-source works.
