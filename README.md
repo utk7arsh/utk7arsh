@@ -29,7 +29,7 @@
 - Undergraduate Student Researcher at the [Brain and AI lab at UCLA (The Roychowdhury Group)](https://www.vwaniroychowdhury.com) where I learnt what does ML research mean as a freshman
 
 ### 💼 Work experience
-- Applied AI Intern at [Astera Labs]{https://www.asteralabs.com/} building agentic solutions to improve Physical Design and Design Verification processes. 
+- Applied AI Intern at [Astera Labs](https://www.asteralabs.com/) building agentic solutions to improve Physical Design and Design Verification processes. 
 - ML Data Infra Intern at [Nuro](https://nuro.ai/) working on the Data Platform Team to building embedding layer for behavior foundation model for better and wider training coverage.
 - Data Science Intern at [Price.com](https://price.com/) building data pipelines to streamline consistent product keyword extraction and handle users personas based on their engagement/shopping activity. 
 - AI Engineering Intern at [GumGum](https://gumgum.com/), working on their first generative AI tools to handle internal Jira capitalization and DSPy fine-tuning. 
